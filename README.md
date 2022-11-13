@@ -14,9 +14,9 @@ This code is an alternative to the MATLAB functions `plotconfusion` and `confusi
 * *`Cmap`*  : Colormap Style
     + *`Colormap Name`* : Select from the table below
 
-If no `Cmap` argument is provided, a popup window will appear asking you to select one of the listed colormaps, and if you ignore this step or try to choose default colormap, default option will be selected automatically.(like below)
+If no `Cmap` argument is provided, a popup window will appear asking you to select one of the listed colormaps, and if you ignore this step or try to choose default colormap, default option will be selected automatically.(like the below)
 
-![pop_win](https://user-images.githubusercontent.com/96732467/201541395-94de02cc-6485-43b3-94d1-2491e04479d8.PNG)
+![snip](https://user-images.githubusercontent.com/96732467/201543726-27d7b757-fe9b-4f5d-b394-dd0d859059bb.PNG)
 
 
 # *`HeatMap Styles`*
