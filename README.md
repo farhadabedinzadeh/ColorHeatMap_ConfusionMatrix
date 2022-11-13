@@ -41,3 +41,6 @@ If no `Cmap` argument is provided, a popup window will appear asking you to sele
 # *`Output using summer ColorMap`*
 
 ![colorconff](https://user-images.githubusercontent.com/96732467/201541601-72b53d66-7f47-406b-9c0f-dbf5f4f533f4.svg)
+
+------
+[![Mail](https://img.shields.io/badge/Gmail-farhaad.abedinzade%40gmail.com-critical?style=flat-square&logo=gmail)]()
