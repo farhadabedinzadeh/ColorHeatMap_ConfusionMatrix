@@ -9,5 +9,3 @@ clc;clear;close
 load InOut
 
 [ConfMat,Accuracy] = CmapConfusionMatrix(actual_labels,predicted_labels);
-
-pcode CmapConfusionMatrix
