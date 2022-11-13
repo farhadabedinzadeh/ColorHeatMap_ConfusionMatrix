@@ -1,4 +1,4 @@
-# A HeatMap Style for Confusion Matrix
+# A ColorMap(HeatMap)Style for Confusion Matrix
 
 This code is an alternative to the MATLAB functions `plotconfusion` and `confusionchart`.
 
