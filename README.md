@@ -5,7 +5,7 @@ This code is an alternative to the MATLAB functions `plotconfusion` and `confusi
 
 # *How to Use?*
 ```code
-[ConfMat,Accuracy] = HeatMapStyleConfusionMatrix(Actual_Labels,Predicted_Labels,Cmap);   
+[ConfMat,Accuracy] = CmapConfusionMatrix(Actual_Labels,Predicted_Labels,Cmap);   
 ```
 * *`ConfMat`*   : Confusion Matrix
 * *`Accuracy`*  : Accuracy of Classification
