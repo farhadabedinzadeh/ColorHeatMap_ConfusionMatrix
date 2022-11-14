@@ -3,7 +3,7 @@
 This code is an alternative to the MATLAB functions `plotconfusion` and `confusionchart`.
 
 
-## Usage
+# *How to Use?*
 ```code
 [ConfMat,Accuracy] = HeatMapStyleConfusionMatrix(Actual_Labels,Predicted_Labels,Cmap);   
 ```
