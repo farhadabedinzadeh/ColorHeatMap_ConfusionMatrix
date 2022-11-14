@@ -23,10 +23,10 @@ If no `Cmap` argument is provided, a popup window will appear asking you to sele
 
 |Colormap Name|    Color Scale                                                                             |
 |-------------| -------------------------------------------------------------------------------------------|
-|   `parula`	| ![colormap_winter](https://nl.mathworks.com/help/matlab/ref/colormap_parula_update17a.png) |
+|   `parula`  | ![colormap_winter](https://nl.mathworks.com/help/matlab/ref/colormap_parula_update17a.png) |
 |    `turbo`  | ![colormap_turbo](https://nl.mathworks.com/help/matlab/ref/colormap_turbo.png)             |
 |    `hsv`    | ![colormap_hsv](https://nl.mathworks.com/help/matlab/ref/colormap_hsv.png)                 |
-|    `hot	`   | ![colormap_hot](https://nl.mathworks.com/help/matlab/ref/colormap_hot.png)                 |
+|    `hot	` | ![colormap_hot](https://nl.mathworks.com/help/matlab/ref/colormap_hot.png)                 |
 |    `cool`   | ![colormap_cool](https://nl.mathworks.com/help/matlab/ref/colormap_cool.png)               |
 |    `spring` | ![colormap_spring](https://nl.mathworks.com/help/matlab/ref/colormap_spring.png)           |
 |    `summer` | ![colormap_summer](https://nl.mathworks.com/help/matlab/ref/colormap_summer.png)           |
